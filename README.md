@@ -26,4 +26,4 @@ We will be building this project with JavaScript: React on the frontend and Node
 
 Please read our contributing guide (detais will be added soon).
 
-There are many ways to contribute. Check out the project repository (), and [the project board](https://github.com/orgs/Kodetz/projects/1). 
+There are many ways to contribute. [Check out the project repository](https://github.com/Kodetz/2020-Kode-tz-project), and the [project board](https://github.com/orgs/Kodetz/projects/1). 
