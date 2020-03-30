@@ -1,5 +1,5 @@
 # 2020-Kode-tz-project
-2020 collaboration project for members from Andela, Google-Africa
+2020 collaboration project for members from (ALC4MWS TZ) Grow With Google - Africa, Andela / PluralSight
 
 ## Purpose of this project
 
