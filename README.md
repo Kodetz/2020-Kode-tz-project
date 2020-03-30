@@ -10,6 +10,8 @@ All members of the group had a chance to add their ideas for a project to work o
 In the following days we will discuss how the work will be organized and more information will be added to this repository.
 The next immediate focus will be on the content and design.
 
+[Read more about this project here(https://docs.google.com/document/d/19bqJQgp3n_C8s_BRBJL7XG9jjZL7rRU2sCLVLwc7gmI/edit#heading=h.rpwu0frgo3r9)
+
 ## Details on the selected project
 
 ### Job seekers platform focusing on their personal-projects and their tech-stacks
@@ -23,3 +25,5 @@ We will be building this project with JavaScript: React on the frontend and Node
 ## How to contribute to this project
 
 Please read our contributing guide (detais will be added soon).
+
+There are many ways to contribute. Check out the project repository (), and the project board(). 
